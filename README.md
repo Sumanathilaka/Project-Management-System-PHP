@@ -1,5 +1,5 @@
 
-# Deshan Sumanathilaka IT Academy - Tkinter Tutorial Series
+# Deshan Sumanathilaka IT Academy - PHP and MySQL
 
 Welcome to the Tkinter tutorial series conducted by Deshan Sumanathilaka IT Academy!
 
